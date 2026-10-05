@@ -1,0 +1,33 @@
+###dynamic python
+x = 10   #integer
+print(x)
+
+x = "Hello"  #char
+print(x)
+
+x = 3.14      #float
+print(x)
+
+####compiled language
+age = 23
+
+print(str(age) + " years")
+
+
+#####practice 1
+
+value = 100
+
+print(value)
+print(type(value))
+
+value = "Python"
+
+print(value)
+print(type(value))
+
+value = 3.14
+
+print(value)
+print(type(value))
+
